@@ -1,4 +1,4 @@
-# 📪 Making a post
+# 📪 Creating a permission request
 
 ## Step 1 - Start journalling
 

@@ -1,24 +1,21 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Authsafe](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Understand the basics](overview/understand-the-basics.md)
+* [💡 What authsafe do](overview/what-authsafe-do.md)
+* [💡 Core concepts](overview/core-concepts.md)
+* [✨ Getting started](overview/getting-started.md)
 
-## Product Guides
+## User guide
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Creating a permission request](user-guide/creating-a-permission-request.md)
+* [📎 Understanding Projects](user-guide/understanding-projects.md)
 
-## Fundamentals
+## Developer manual
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥️ For Developers](use-cases/for-developers.md)
+* [🛠️ Getting set up](developer-manual/getting-set-up/README.md)
+  * [📝 Setting permissions](developer-manual/getting-set-up/setting-permissions.md)
+  * [🧑 Inviting Members](developer-manual/getting-set-up/inviting-members.md)

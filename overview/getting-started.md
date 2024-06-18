@@ -1,10 +1,10 @@
-# ✨ Our Features
+# ✨ Getting started
 
 {% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
+**Tip:** This guide assumes you have a grounding in the tools that Authsafe is based on. Please read Understand the basics to learn about these tools.
 {% endhint %}
 
-## Awesome Feature One
+## Requirement
 
 Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
 
