@@ -4,7 +4,7 @@ description: Sequence diagram
 
 # 📔 Design docs
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Create a request</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Authenticated user create request</p></figcaption></figure>
 
 ````
 ```mermaid
