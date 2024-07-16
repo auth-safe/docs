@@ -1,7 +1,7 @@
 ---
 description: >-
-  Integration is a intermediate between authsafe and secret backend that support
-  key-value secret store.
+  Integration is an intermediate between authsafe and secret backend that
+  support key-value secret store.
 ---
 
 # Integration
