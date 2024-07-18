@@ -5,8 +5,7 @@
 ## Overview
 
 * [Understand the basics](overview/understand-the-basics.md)
-* [💡 Core concepts](overview/core-concepts/README.md)
-  * [Repository](overview/core-concepts/repository.md)
+* [💡 Core concepts](overview/core-concepts.md)
 * [✨ Getting started](overview/getting-started.md)
 
 ## User guide

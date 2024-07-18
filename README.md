@@ -8,8 +8,8 @@ Authsafe is a system managing ephemeral access via approval workflow.
 
 ## Quick links
 
-{% content-ref url="overview/core-concepts/" %}
-[core-concepts](overview/core-concepts/)
+{% content-ref url="overview/core-concepts.md" %}
+[core-concepts.md](overview/core-concepts.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/getting-started.md" %}
