@@ -1,4 +1,4 @@
-# 👋 Welcome to Authsafe
+# 👋 Hello, i'm authsafe
 
 ## Overview
 
@@ -8,8 +8,8 @@ Authsafe is a system managing ephemeral access via approval workflow.
 
 ## Quick links
 
-{% content-ref url="overview/what-authsafe-do.md" %}
-[what-authsafe-do.md](overview/what-authsafe-do.md)
+{% content-ref url="overview/core-concepts/" %}
+[core-concepts](overview/core-concepts/)
 {% endcontent-ref %}
 
 {% content-ref url="overview/getting-started.md" %}
@@ -20,14 +20,14 @@ Authsafe is a system managing ephemeral access via approval workflow.
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="developer-manual/getting-set-up/" %}
-[getting-set-up](developer-manual/getting-set-up/)
+{% content-ref url="user-guide/creating-a-permission-request.md" %}
+[creating-a-permission-request.md](user-guide/creating-a-permission-request.md)
 {% endcontent-ref %}
 
-{% content-ref url="developer-manual/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](developer-manual/getting-set-up/setting-permissions.md)
+{% content-ref url="developer-guide/getting-set-up/setting-permissions.md" %}
+[setting-permissions.md](developer-guide/getting-set-up/setting-permissions.md)
 {% endcontent-ref %}
 
-{% content-ref url="developer-manual/getting-set-up/inviting-members.md" %}
-[inviting-members.md](developer-manual/getting-set-up/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
