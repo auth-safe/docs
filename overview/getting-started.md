@@ -42,10 +42,14 @@ sudo vi /etc/hosts
 127.0.0.1 mysql
 ```
 
-* Create [github PAT](https://github.com/settings/tokens)
-* Bootstrap infrastructure stack: temporal, mysql, redis, keycloak, authsafe core
+* Install authsafe
+
+```
+brew install authsafe
+```
+
+* Run testdrive
 
 ```
 authsafe testdrive
 ```
-

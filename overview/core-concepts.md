@@ -66,7 +66,7 @@ Repository store terraform module that will be applied to grant permission to an
 
 </details>
 
-* **Request Status**
+
 
 
 

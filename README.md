@@ -20,12 +20,12 @@ Authsafe is a system managing ephemeral access via approval workflow.
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
 
-{% content-ref url="user-guide/creating-a-permission-request.md" %}
-[creating-a-permission-request.md](user-guide/creating-a-permission-request.md)
+{% content-ref url="user-guide/how-to-use-authsafe.md" %}
+[how-to-use-authsafe.md](user-guide/how-to-use-authsafe.md)
 {% endcontent-ref %}
 
-{% content-ref url="developer-guide/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](developer-guide/getting-set-up/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

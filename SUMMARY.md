@@ -10,12 +10,10 @@
 
 ## User guide
 
-* [📪 Creating a permission request](user-guide/creating-a-permission-request.md)
+* [📪 How to use authsafe](user-guide/how-to-use-authsafe.md)
 
 ## Developer guide
 
-* [🛠️ Getting set up](developer-guide/getting-set-up/README.md)
-  * [📝 Setting permissions](developer-guide/getting-set-up/setting-permissions.md)
 * [📔 Design docs](developer-guide/design-docs.md)
 
 ## Operator manual
