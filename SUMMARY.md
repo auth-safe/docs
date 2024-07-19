@@ -18,4 +18,6 @@
 
 ## Operator manual
 
-* [⚙️ Deploying Authsafe](operator-manual/deploying-authsafe.md)
+* [🛴 Architectural Overview](operator-manual/architectural-overview.md)
+* [⚙️ Installation](operator-manual/installation.md)
+* [🦸 User management](operator-manual/user-management.md)

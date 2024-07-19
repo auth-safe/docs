@@ -2,7 +2,7 @@
 
 ## Overview
 
-Authsafe is a system managing ephemeral access via approval workflow.
+Authsafe is a temporary access management system.
 
 > With Authsafe, you can manage temporary access to your application infrastructure via highly customizable approval workflow. Authsafe support granting almost every resources you can think of, from creating a mysql user to granting user access to a Google Cloud Platform project.
 
