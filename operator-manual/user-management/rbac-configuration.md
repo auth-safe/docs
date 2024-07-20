@@ -1,10 +1,10 @@
 # RBAC Configuration
 
-The RBAC feature enables restriction of access to Authsafe resources. AuthSafe does not have its own user management system and provider . RBAC requires SSO Configuration. Once SSO are configured, additional RBAC roles can be defined, and SSO groups or local users can then be mapped to roles.
+The RBAC feature enables restriction of access to AuthSafe resources. AuthSafe does not have its own user management system and provider . RBAC requires SSO Configuration. Once SSO are configured, additional RBAC roles can be defined, and SSO groups or local users can then be mapped to roles.
 
 ### Basic Built-in Roles[¶](https://argo-cd.readthedocs.io/en/stable/operator-manual/rbac/#basic-built-in-roles) <a href="#basic-built-in-roles" id="basic-built-in-roles"></a>
 
-AuthSafe has two pre-defined roles but RBAC configuration allows defining roles and groups (see below).
+AuthSafe has two pre-defined roles (see below).
 
 * `role:attachment-administrator`
 * `role:attachment-viewer`

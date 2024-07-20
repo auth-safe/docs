@@ -4,7 +4,7 @@ description: Integrating Keycloak and Authsafe
 
 # Keycloak
 
-These instructions will take you through the entire process of getting Authsafe authenticating with Keycloak. You will create a client within Keycloak and configure Authsafe to use Keycloak for authentication, using groups set in Keycloak to determine privileges in Authsafe.
+These instructions will take you through the entire process of getting AuthSafe authenticating with Keycloak. You will create a client within Keycloak and configure AuthSafe to use Keycloak for authentication, using groups set in Keycloak to determine privileges in AuthSafe.
 
 ### Creating a new client in Keycloak <a href="#creating-a-new-client-in-keycloak" id="creating-a-new-client-in-keycloak"></a>
 
@@ -20,14 +20,14 @@ The Valid Redirect URIs should be set to https://{hostname}/auth/callback (you c
 
 Make sure to click **Save**.
 
-### Configuring Authsafe OIDC <a href="#configuring-argocd-oidc" id="configuring-argocd-oidc"></a>
+### Configuring AuthSafe OIDC <a href="#configuring-argocd-oidc" id="configuring-argocd-oidc"></a>
 
 ```
 OIDC_ISSUER_URL=http://keycloak_host:keycloak_port/realms/your_realm
 OIDC_CLIENT_ID=authsafe
 ```
 
-### Configuring Authsafe Policy <a href="#configuring-argocd-policy" id="configuring-argocd-policy"></a>
+### Configuring AuthSafe Policy <a href="#configuring-argocd-policy" id="configuring-argocd-policy"></a>
 
 ```
 g, foo@authsafe.local, role:admin
