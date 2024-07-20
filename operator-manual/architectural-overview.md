@@ -1,6 +1,6 @@
 # 🛴 Architectural Overview
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * Server: is a connect-RPC server, which exposes API consumed by Web. It has the following responsibilities:
   * ticket management and status reporting.

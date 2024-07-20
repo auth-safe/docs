@@ -22,3 +22,4 @@
 * [⚙️ Installation](operator-manual/installation.md)
 * [🦸 User management](operator-manual/user-management/README.md)
   * [RBAC Configuration](operator-manual/user-management/rbac-configuration.md)
+  * [Keycloak](operator-manual/user-management/keycloak.md)
