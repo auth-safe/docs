@@ -20,4 +20,5 @@
 
 * [🛴 Architectural Overview](operator-manual/architectural-overview.md)
 * [⚙️ Installation](operator-manual/installation.md)
-* [🦸 User management](operator-manual/user-management.md)
+* [🦸 User management](operator-manual/user-management/README.md)
+  * [RBAC Configuration](operator-manual/user-management/rbac-configuration.md)
