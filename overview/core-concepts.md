@@ -1,12 +1,12 @@
 ---
 description: >-
   Let's assume you're familiar with core Git, Terraform and Rule Engine concepts
-  . Below are some of the concepts that are specific to Authsafe.
+  . Below are some of the concepts that are specific to AuthSafe.
 ---
 
 # 💡 Core concepts
 
-Let's assume you're familiar with core Git, Terraform and Rule Engine concepts . Below are some of the concepts that are specific to Authsafe.
+Let's assume you're familiar with core Git, Terraform and Rule Engine concepts . Below are some of the concepts that are specific to AuthSafe.
 
 <details>
 

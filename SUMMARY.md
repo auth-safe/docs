@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Hello, i'm authsafe](README.md)
+* [👋 Hello, i'm AuthSafe](README.md)
 
 ## Overview
 
@@ -10,7 +10,7 @@
 
 ## User guide
 
-* [📪 How to use authsafe](user-guide/how-to-use-authsafe.md)
+* [📪 How to use AuthSafe](user-guide/how-to-use-authsafe.md)
 
 ## Developer guide
 

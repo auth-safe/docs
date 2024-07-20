@@ -1,7 +1,7 @@
 # ✨ Getting started
 
 {% hint style="info" %}
-**Tip:** This guide assumes you have a grounding in the tools that Authsafe is based on. Please read Understand the basics to learn about these tools.
+**Tip:** This guide assumes you have a grounding in the tools that AuthSafe is based on. Please read Understand the basics to learn about these tools.
 {% endhint %}
 
 ## Try out authsafe
@@ -42,7 +42,7 @@ sudo vi /etc/hosts
 127.0.0.1 mysql
 ```
 
-* Install authsafe
+* Install AuthSafe
 
 ```
 brew install authsafe

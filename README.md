@@ -1,10 +1,10 @@
-# 👋 Hello, i'm authsafe
+# 👋 Hello, i'm AuthSafe
 
 ## Overview
 
-Authsafe is a temporary access management system.
+AuthSafe is a temporary access management system.
 
-> With Authsafe, you can manage temporary access to your application infrastructure via highly customizable approval workflow. Authsafe support granting almost every resources you can think of, from creating a mysql user to granting user access to a Google Cloud Platform project.
+> With AuthSafe, you can manage temporary access to your application infrastructure via highly customizable approval workflow. AuthSafe support granting almost every resources you can think of, from creating a mysql user to granting user access to a Google Cloud Platform project.
 
 ## Quick links
 
