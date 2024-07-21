@@ -1,4 +1,9 @@
-# 👋 Hello, i'm AuthSafe
+---
+cover: .gitbook/assets/187432903 2.png
+coverY: 0
+---
+
+# 👋 Welcome to AuthSafe
 
 ## Overview
 

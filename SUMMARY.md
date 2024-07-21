@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Hello, i'm AuthSafe](README.md)
+* [👋 Welcome to AuthSafe](README.md)
 
 ## Overview
 
@@ -23,3 +23,4 @@
 * [🦸 User management](operator-manual/user-management/README.md)
   * [RBAC Configuration](operator-manual/user-management/rbac-configuration.md)
   * [Keycloak](operator-manual/user-management/keycloak.md)
+* [🪝 Writing rule](operator-manual/writing-rule.md)
