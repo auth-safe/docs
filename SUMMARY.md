@@ -24,3 +24,8 @@
   * [RBAC Configuration](operator-manual/user-management/rbac-configuration.md)
   * [Keycloak](operator-manual/user-management/keycloak.md)
 * [🪝 Writing rule](operator-manual/writing-rule.md)
+
+***
+
+* [FAQ](faq.md)
+* [Support](support.md)

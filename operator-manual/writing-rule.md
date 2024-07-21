@@ -1,6 +1,6 @@
 # 🪝 Writing rule
 
-AuthSafe approval rule has format of:
+AuthSafe rule has format of:
 
 ```
 When
@@ -70,12 +70,12 @@ Available attributes:
 
 <summary>attachment</summary>
 
-* Short: string
-* Long: string
-* RepositoryID: number
-* Path: string
-* Revision: string
-* IntegrationID: number
+* `Short: string`
+* `Long: string`
+* `RepositoryID: number`
+* `Path: string`
+* `Revision: string`
+* `IntegrationID: number`
 
 </details>
 
@@ -83,11 +83,11 @@ Available attributes:
 
 <summary>result</summary>
 
-* MaxDurationHour: string
-* Approvers: string
-* SendNotificationTo: \[]string
-* MinimumApproval: number
-* AdditionalRequiredApprovers: \[]string
+* `MaxDurationHour: string`
+* `Approvers: string`
+* `SendNotificationTo: []string`
+* `MinimumApproval: number`
+* `AdditionalRequiredApprovers: []string`
 
 </details>
 
@@ -113,8 +113,8 @@ Available methods:
 
 <summary>attachment</summary>
 
-* GetOwners(): \[]string
-* ContainsOwner(email: string): bool
+* `GetOwners(): []string`
+* `ContainsOwner(email: string): bool`
 
 </details>
 
@@ -122,15 +122,15 @@ Available methods:
 
 <summary>result</summary>
 
-* AppendApprovers(emails: \[]string)
+* `AppendApprovers(emails: []string)`
 
 <!---->
 
-* AppendAdditionalRequiredApprovers(emails: \[]string)
+* `AppendAdditionalRequiredApprovers(emails: []string)`
 
 <!---->
 
-* AppendNotificationSubscriber(emails: \[]string)
+* `AppendNotificationSubscriber(emails: []string)`
 
 </details>
 
@@ -152,7 +152,7 @@ By default, all Rules are assigned a salience of `0`.
 
 Because all nonspecified Rules are salience 0, it's easy for the engine to pick which Rule to execute when there are multiple Rules matches the `when` condition. If there are multiple Rules with matching priorities, the engine will choose the first one found.
 
-Salience for Grule Rules can be a value below zero (reaching into the negative) to ensure a Rule has even lower priority than the default. This will ensure that a Rule's action will be executed last, after all other Rules are evaluated.
+Salience for Rule can be a value below zero (reaching into the negative) to ensure a Rule has even lower priority than the default. This will ensure that a Rule's action will be executed last, after all other Rules are evaluated.
 
 ***
 
